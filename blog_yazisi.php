@@ -5,12 +5,13 @@
 </head>
 <body>
 	<div>
+		<form action="" method="post">
 		<table>
 			<tr>
 				<th><h2>Blog</h2></th>
 			</tr>	
 			<tr>
-				<td>Username</td><td><input type="text" name="username"></td>
+				<td>Name</td><td><input type="text" name="name"></td>
 
 			</tr>
 			<tr>
@@ -34,6 +35,7 @@
 
 
 		</table>
+	</form>
 	</div>
 
 </body>

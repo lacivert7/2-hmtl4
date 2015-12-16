@@ -12,7 +12,8 @@
 	<input type="email" name="mail" value="example@gmail.com" ><br>
 	<p style="margin-left:130px">send me new password</p>
 	
-	<input style="margin-left:150px; width:80px; height:30px;"type="button" value="Send"><br>
+	<input style="margin-left:150px; width:80px; height:30px;"type="button" value="Send">
+	<input style="margin-left:20px; width:80px; height:30px;" type="reset" value="reset">
 		
 
 	
